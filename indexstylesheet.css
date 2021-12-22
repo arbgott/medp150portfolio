@@ -1,0 +1,41 @@
+
+body {
+	background-image: url("https://media.giphy.com/media/3ohryBIVdrXpWT1foc/giphy.gif");
+	background-size: cover;
+}
+h1 { 
+	text-align: center;
+	font-size: 75px;
+ }
+
+.parastart {
+	color: limegreen;
+	font-size: 30px;
+	text-align: left;
+	font-family: Verdana;
+}
+
+.parastatement {
+	color:  white;
+	font-size: 20px;
+	text-align: left;
+	font family: verdana;
+}
+
+.HWbutt {
+  background-color: limegreen;
+  border: none;
+  color: deeppink;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font family: verdana;
+}
+
+.HWbutt:hover {
+  background-color: #FF1493; /* deeppink */
+  color: white;
+
+ /*background image ideas: https://media.giphy.com/media/RfpxJWSF0ZsXeRFJLy/giphy.gif

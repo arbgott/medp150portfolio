@@ -1,0 +1,36 @@
+body{
+	background-color: yellowgreen;
+}
+.projectintro{
+	color: deeppink;
+	font-size: 50px;
+	text-align: center;
+	font-family: Verdana;
+}
+
+.parastatement{
+color:  deeppink;
+	font-size: 35px;
+	text-align: center;
+	font family: verdana, sans serif;
+  font-weight: bold;
+	}
+
+.butt {
+  background-color: deeppink;
+  border: none;
+  color: #008000;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font family: verdana;
+  font-weight: bold;
+}
+
+.butt:hover {
+  background-color: #008000; /* Green */
+  color: white;
+  font family: verdana
+}
